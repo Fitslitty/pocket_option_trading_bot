@@ -38,4 +38,4 @@ This script will make you poor in the long run:
 `po_bot_ml.py` - script makes orders based on prediction. Random Forest Classifier approach is used. Works for 1m and higher timeframes.
 
 ### Donations
-Send your BTC here: `bc1qemxzzy6rq6ycxjn0f00yqgptjqldkms8g2ucu0`
+`
